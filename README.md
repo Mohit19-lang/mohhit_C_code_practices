@@ -1,1 +1,1 @@
-# mohhit_C_code_practices
+# mohit_C_code_practices
